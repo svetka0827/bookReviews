@@ -1,0 +1,86 @@
+/**{
+	border:1px dotted red;
+}*/
+h3{
+	display: inline-block;
+	vertical-align: top;
+	float:right;
+	margin-right: 10px;
+}
+h2{
+	display: inline-block;
+	vertical-align: top;
+
+}
+
+#other_books_reviews{
+	width: 250px;
+    height: 200px;
+    overflow: scroll;
+    border: 2px solid black;
+    display: inline-block;
+	vertical-align: top;
+
+}
+
+#reviews_container{
+	display: inline-block;
+	vertical-align: top;
+
+}
+
+#other_books_reviews_container{
+	display: inline-block;
+	vertical-align: top;
+	float:right;
+}
+
+
+#book_reviews_container{
+	display: inline-block;
+	vertical-align: top;
+	width:750px;
+
+}
+
+#container{
+	width:850px;
+}
+
+#add_review{
+	display: inline-block;
+	vertical-align: top;
+	float:right;		
+}
+
+#book_review{
+	display: inline-block;
+	vertical-align: top;
+	border-top: 1px solid black;
+}
+
+.review_p{
+	font-size: 12px;
+	font-style: italic;
+}
+
+.review_a{
+font-size: 12px;
+}
+
+.login{
+	float: right;
+	margin-top: 15px;
+}
+
+.login a{
+	margin-right: 10px;
+}
+
+#side_bar_ul{
+	list-style-type: none;
+}
+
+
+
+
